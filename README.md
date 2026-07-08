@@ -1,4 +1,4 @@
-# Damian G.L. Ketting — Systems Portfolio
+# Damian G.L. Ketting - Systems Portfolio
 
 **Systems Developer | Python Automation | LLM Workflows | Governance & Security Tooling**
 
@@ -17,7 +17,7 @@ My strongest work sits where product, engineering, governance, and trust meet: p
 ## Available For
 
 - Remote fractional contract work
-- 8–16 hours/week preferred
+- 8-16 hours/week preferred
 - Up to 24 hours/week when scope is clear
 - Python tooling, automation, LLM workflows, internal tools, governance, evidence systems, and cybersecurity-adjacent product work
 - International remote clients preferred
@@ -47,8 +47,10 @@ My strongest work sits where product, engineering, governance, and trust meet: p
 
 ## Start Here
 
+- [Quick Start](QUICK_START.md)
+- [Polished CV](CV_POLISHED.md)
+- [Application Messages](APPLICATION_MESSAGES.md)
 - [Recruiter Brief](RECRUITER_BRIEF.md)
-- [CV](CV.md)
 - [Selected Projects](PROJECTS.md)
 - [Case Studies](CASE_STUDIES.md)
 - [Systems Index](SYSTEMS_INDEX_PUBLIC.md)
