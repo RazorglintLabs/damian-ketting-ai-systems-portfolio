@@ -1,0 +1,24 @@
+# Local files
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Private/source material
+private/
+internal/
+raw_handbooks/
+secrets/
