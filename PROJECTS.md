@@ -1,187 +1,44 @@
-# Selected Projects
-
-This page highlights selected systems in recruiter-friendly language.
-
-It does not publish proprietary source code or sensitive operational details.
-
----
-
-## 1. Prestige Forge — Proof-First Verification & Claim Safety
-
-**Category:** Verification engine / governance tooling  
-**Main idea:** determine what a system can safely claim based on available evidence.
-
-Prestige Forge is a proof-first verification engine that links checks, evidence, commits, proof records, manifests, and claim verdicts. The system is designed to replace vague “trust me” claims with portable proof bundles and explicit claim safety states.
-
-**Relevant skills shown**
-
-- Python system architecture
-- CLI design
-- deterministic verification workflows
-- claim-safety logic
-- evidence artifacts
-- proof bundles
-- buyer-facing verification language
-- test-driven system closure
-
-**Recruiter translation**
-
-I can build verification tooling that turns claims into evidence-backed outputs.
-
----
-
-## 2. Compliance Drift Detector — Policy vs Behavior Evidence
-
-**Category:** Compliance / governance automation  
-**Main idea:** compare what a policy says against what systems actually do.
-
-Compliance Drift Detector ingests policy declarations, behavior evidence, configuration snapshots, and timestamps. It classifies results as aligned, drifting, violated, or undeclared.
-
-**Relevant skills shown**
-
-- CSV/JSON evidence pipelines
-- deterministic classification
-- report generation
-- local-first tooling
-- compliance-oriented product thinking
-- plain-English explanations
-- buyer-facing documentation
-
-**Recruiter translation**
-
-I can build internal governance tools that make operational drift visible before it becomes audit pain.
-
----
-
-## 3. Command Guardian — Terminal Safety & Audit Receipts
-
-**Category:** Security-aware automation / CLI guardrail  
-**Main idea:** make terminal command execution safer and auditable.
-
-Command Guardian is a local-first terminal safety layer. It blocks dangerous command classes by default, requires explicit authorization for risky actions, and emits hash-chained audit receipts.
-
-**Relevant skills shown**
-
-- CLI tooling
-- deny-by-default design
-- policy gates
-- command classification
-- security hardening
-- adversarial bypass thinking
-- hash-chained audit receipts
-
-**Recruiter translation**
-
-I can build safety layers around developer workflows and automation.
-
----
-
-## 4. LocalChad / CTLM — Local Application Layer & Governed Memory
-
-**Category:** Local-first application architecture / LLM workflow support  
-**Main idea:** connect application UI, API, memory, telemetry, and governance surfaces.
-
-This work includes FastAPI backend components, typed REST routes, vector memory concepts, telemetry surfaces, React/Electron UI work, diagnostic scripts, packaging paths, and governance integration points.
-
-**Relevant skills shown**
-
-- FastAPI
-- Pydantic
-- OpenAI SDK
-- vector memory concepts
-- React / Electron
-- TypeScript exposure
-- PowerShell/Bash workflows
-- local application packaging
-
-**Recruiter translation**
-
-I can help wire usable AI-adjacent tools, not just isolated scripts.
-
----
-
-## 5. ReasonForge — LLM Data Quality Firewall
-
-**Category:** Data quality / LLM pipeline support  
-**Main idea:** improve dataset quality before model work begins.
-
-ReasonForge focuses on schema validation, deduplication, leakage checks, and evaluation patterns for LLM/fine-tuning style data workflows.
-
-**Relevant skills shown**
-
-- data validation
-- quality gates
-- SimHash-style dedup thinking
-- leakage detection concepts
-- evaluation workflows
-- package delivery
-
-**Recruiter translation**
-
-I can build tools around the messy parts of AI workflows: data quality, checks, and repeatable evaluation.
-
----
-
-## 6. ProofChain / SealVault / Blackiron — Proof & Audit Primitives
-
-**Category:** Cryptographic and tamper-evident infrastructure  
-**Main idea:** create reusable proof primitives for evidence systems.
-
-These systems explore receipt chains, Merkle-style evidence, hash-only transmission, domain-separated proof records, and low-level proof infrastructure across Rust/Go/TypeScript-oriented components.
-
-**Relevant skills shown**
-
-- proof modeling
-- SHA-256 hash chains
-- Merkle-style audit ideas
-- Rust exposure
-- Go exposure
-- TypeScript SDK exposure
-- systems thinking around trust infrastructure
-
-**Recruiter translation**
-
-I think in evidence trails, not just feature output.
-
----
-
-## 7. TrustContinuityMapper / DecisionProvenanceTracker
-
-**Category:** Trust timeline / decision lineage  
-**Main idea:** show how trust and decisions change over time.
-
-These systems map trust continuity, decision lineage, hash-verified edges, drift signals, and evidence-backed timelines.
-
-**Relevant skills shown**
-
-- event modeling
-- lineage graphs
-- trust-state classification
-- reporting
-- evidence-driven UX
-- governance concepts
-
-**Recruiter translation**
-
-I can build systems that explain why something happened, not only that it happened.
-
----
-
-## 8. EU AI Act Evidence Readiness / PolicySourceEngine
-
-**Category:** Policy and evidence readiness  
-**Main idea:** compile evidence and policy checklists without claiming legal certification.
-
-These systems focus on read-only evidence compilation, deterministic policy pack loading, adapter patterns, and checklist-oriented reporting.
-
-**Relevant skills shown**
-
-- compliance support tooling
-- adapter architecture
-- deterministic checklist evaluation
-- report generation
-- claim boundary discipline
-
-**Recruiter translation**
-
-I can build compliance-adjacent tools without overclaiming what the tool legally proves.
+# Selected Engineering Projects — 16 October 2026
+
+Project descriptions distinguish **current linked source evidence**, **dated historical test results**, **private development** and **candidate integrations**. No private code, buyers, contract figures or unreleased architecture is disclosed.
+
+### 1. [Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector) — Current public evaluation surface
+**Problem:** Policy statements and operator observations diverge over checkpoints.  
+**Engineering:** Deterministic Python pipeline; explicit ALIGNED / DRIFTING / VIOLATED / UNDECLARED classifications, recovered-history analysis, JSON/Markdown/HTML outputs and independent consistency verification.  
+**16 October 2026 result:** [76 source tests in Windows/Linux qualification and owner-accepted native Windows v0.2 controlled preview](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md) tied to `662f84caa2ed372abde6a83245c58b466e52ce94`.  
+**Limit:** Inputs are structured and pre-classified by the operator; SHA-256 consistency checks are **not** publisher signatures or evidence authenticity. Windows EXE remains unsigned.
+
+### 2. Prestige-Reforged — Evidence and claim engineering
+**Problem:** Claims, artifacts and histories drift apart without traceable source identity and explicit acceptance.  
+**Engineering:** Staged local-first evidence admission, evaluation/WHY, versioned history/drift, proof handoff and separately qualified product interface.  
+**Status:** Proprietary ongoing engineering with staged qualification and review. Search behavior, Windows UI/installer and general customer release are **not** declared closed. Historical Prestige-Forge numbers are not substituted for current Reforged test totals.
+
+### 3. Viventia and VEAC — Operational evidence and independent challenge
+**Problem:** Operators need focused incident evidence while assurance must remain separate from the product being tested.  
+**Engineering:** Local-first evidence cockpit design; separate adversarial campaigns and bounded hostile-test methodology.  
+**Status:** Private ongoing development/qualification. No SIEM/EDR equivalence, external certification or full enterprise shipping claim.
+
+### 4. SAR / Governed AI Control & Assurance candidate — Authority and execution boundaries
+**Problem:** Automation decisions are difficult to authorize, constrain and reconstruct.  
+**Engineering:** Historical policy-gating, protected decisions, receipts and candidate governance/execution/evidence/independent-challenge seams.  
+**Status:** Some source components have historical suite evidence; candidate stack is under source, dependency, IP and qualification admission. Do not describe it as one finished six-part product.
+
+### 5. Command Guardian — Terminal guardrails
+**Problem:** Dangerous commands and ambiguous accountability in scripted workflows.  
+**Engineering:** Deny-first classifications, auditable token/command flow and SHA-256 hash-chained receipts.  
+**Evidence:** Historical 26 April **131-test passing hardened-prototype** record in [architecture audit](https://github.com/RazorglintLabs/systems-architecture/blob/main/assets/proof/PROOF_AUDIT_2026-04-26.md).  
+**Limit:** Not production-ready, not SAR-integrated, no receipt signing, bypass coverage bounded by tests.
+
+### 6. ReasonForge — Dataset quality/evaluation
+**Problem:** Deduplication, format errors and leakage weaken LLM data pipelines.  
+**Engineering:** Schema evaluation, deduplication and leakage checks plus quality reporting.  
+**Status:** Separate tooling asset; per-repository/current-run qualification required before specific current claims.
+
+### 7. ProofChain / SealVault / Blackiron / Trust Reconstruction — Integrity and lineage
+**Problem:** Evidence and decision timelines can become hard to reconstruct and transfer.  
+**Engineering:** Hash links, Merkle/receipt primitives and independently checked demo artifacts in historical source records.  
+**Status:** Related but **not one guaranteed integration**; local source/IP/dependencies must be audited before any buyer-ready transfer claim.
+
+**Skills demonstrated across these projects:** Python, pytest/unittest, CLI and batch pipelines, JSON evidence/reporting, API design, Git/GitHub CI, desktop delivery work, Rust exposure, secure-by-design boundaries, documentation and scoped acceptance testing.
+
+[Current results register](CURRENT_RESULTS_2026-10-16.md) · [Public portfolio](README.md).

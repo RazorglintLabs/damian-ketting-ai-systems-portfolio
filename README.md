@@ -1,66 +1,46 @@
-# Damian G.L. Ketting - Systems Portfolio
+# Damian G. L. Ketting — Founder & Systems Builder
 
-**Systems Developer | Python Automation | LLM Workflows | Governance & Security Tooling**
+**Razorglint Labs · Evidence-first engineering, governed automation and local-first tools**  
+*Portfolio refreshed 16 October 2026*
 
-Damian G.L. Ketting · GitHub: RazorglintLabs · Email: razorglint.ops@protonmail.com · Remote / Europe-friendly
+I design and build software where **an operation, decision or claim should be explainable against its actual evidence**. My work spans deterministic Python tooling, security-aware automation, product/desktop surfaces, LLM-data workflows and provenance systems.
 
-I build practical systems: Python automation, local-first tools, LLM workflows, governance checks, evidence flows, verification logic, and security-aware prototypes.
+I operate through **Razorglint Labs / TCOG Collective LLC**. This is primarily a **founder and technology portfolio**, not an assertion that I am seeking salaried employment. Relevant enquiries include bounded engineering collaborations, evaluations, integrations, licenses and carefully scoped strategic technology discussions.
 
-Some systems involve AI. Some do not. The common thread is this:
+## Engineering focus
 
-> turning unclear operational risk into **testable, verifiable, usable systems**.
+- **Evidence before adjectives:** exact source identity, repeatable checks, explicit missing-evidence states and claims no stronger than their proof.
+- **Governance separated from execution:** permission, action, observation and independent assurance must have distinct authorities.
+- **Local-first where the product supports it:** usable offline paths, inspectable data flows and no invented “zero cloud” claim for every tool.
+- **Product delivery, not only prototypes:** readable reports, operator-facing UI, verification commands, build/CI receipts and honest release gates.
 
-My strongest work sits where product, engineering, governance, and trust meet: policy checks, audit receipts, claim boundaries, proof bundles, tamper-evident trails, and plain-English operator surfaces.
+## Selected work
 
----
+| System | What it addresses | Verified or documented status |
+| --- | --- | --- |
+| [Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector) | Structured policy vs operator-supplied evidence history | **16 Oct 2026:** 76-test Windows/Linux CI; owner-accepted **unsigned v0.2 Windows x64 controlled-evaluation preview**, not a signed enterprise release. [Exact receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md). |
+| **Prestige-Reforged** (successor to Prestige-Forge) | Evidence/claim validation, history/drift and proof handoff | Private staged product development and qualification; Windows UI/search/release work still gated, not general availability. |
+| **Viventia / VEAC** | Local-first operational evidence cockpit; separately governed adversarial challenge | Private engineering and qualification. Viventia is not SIEM/EDR; VEAC never certifies its target. |
+| **SAR / governed-automation components** | Policy authority, receipted decisions and constrained actions | Historical standalone proof, plus ongoing candidate integration/admission work; no integrated production claim. |
+| **Command Guardian** | Command guardrails and audit chain | Historical **131 passing tests** for a hardened **prototype**, not production-ready; receipt signing deferred. |
+| **ReasonForge** | LLM/fine-tuning dataset quality and evaluation tooling | Distinct data-validation/evaluation work; current source and delivery posture must be assessed per asset. |
+| **ProofChain / SealVault / Blackiron / trust reconstruction** | Evidence integrity, timeline and decision lineage | Selected local/private components and demos; verify exact current source before assuming buyer-ready release. |
 
-## Available For
+[Selected project descriptions](PROJECTS.md) · [Case studies](CASE_STUDIES.md) · [Dated results & evidence boundaries](CURRENT_RESULTS_2026-10-16.md) · [Public systems index](SYSTEMS_INDEX_PUBLIC.md)
 
-- Remote fractional contract work
-- 8-16 hours/week preferred
-- Up to 24 hours/week when scope is clear
-- Python tooling, automation, LLM workflows, internal tools, governance, evidence systems, and cybersecurity-adjacent product work
-- International remote clients preferred
+## Where the results live
 
----
+The [Systems Architecture](https://github.com/RazorglintLabs/systems-architecture) repo preserves the **26 April 2026 portfolio proof audit** as a historical snapshot. Its **3,505 executed passes** are **not** a fresh October all-system test run, and recorded skips/environment caveats remain material. Current product receipts belong with the current source; an accessible example is CDD's October 2026 CI/release record.
 
-## Best Fit Roles
+Private systems are intentionally described without publishing private implementation, buyer diligence, customer information or sale economics. Public repo access does not automatically grant open-source or commercial rights.
 
-- Systems Developer
-- Python Automation Engineer
-- LLM Workflow Engineer
-- Governance / Evidence Tooling Developer
-- Security-Aware Product Prototyper
-- Fractional Systems Builder
-- AI-adjacent Internal Tools Developer
+## Collaboration
 
----
+Interested in an evaluation, technology license, OEM/integration discussion or bounded specialist engineering project? Include the problem, expected environment, system constraints and which evidence would make a pilot useful.
 
-## Selected Proof Points
+**Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com)  
+**Organization:** [Razorglint Labs](https://github.com/RazorglintLabs)
 
-- Built a portfolio of governance, evidence, automation, AI-support, and security-aware systems.
-- Designed systems around local-first operation, plain-English reports, deterministic checks, tamper-evident receipts, and claim boundaries.
-- Worked across Python, FastAPI, Rust, Go, TypeScript, React/Electron, local verification flows, evidence packaging, and LLM-assisted development workflows.
-- Created multiple systems with documented tests, proof states, limitations, buyer-safe language, and reusable architecture patterns.
+*Legacy recruiter/CV materials remain in this repository for reference; see [Work Preferences](WORK_PREFERENCES.md) for current founder-first positioning.*
 
----
-
-## Start Here
-
-- [Quick Start](QUICK_START.md)
-- [Polished CV](CV_POLISHED.md)
-- [Application Messages](APPLICATION_MESSAGES.md)
-- [Recruiter Brief](RECRUITER_BRIEF.md)
-- [Selected Projects](PROJECTS.md)
-- [Case Studies](CASE_STUDIES.md)
-- [Systems Index](SYSTEMS_INDEX_PUBLIC.md)
-- [Work Preferences](WORK_PREFERENCES.md)
-- [Publication Safety Notes](PUBLICATION_SAFETY_NOTES.md)
-
----
-
-## Important Boundary
-
-This portfolio summarizes selected work. It does not expose proprietary source code, customer data, secrets, private infrastructure, exploit instructions, or production credentials.
-
-Where a project is proprietary/private, the public material focuses on the problem solved, architecture pattern, proof posture, and lessons learned.
+© 2026 Razorglint Labs / TCOG Collective LLC. Proprietary rights remain governed by each asset's notices and contracts.

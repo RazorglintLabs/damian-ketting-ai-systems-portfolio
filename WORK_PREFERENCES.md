@@ -1,49 +1,11 @@
-# Work Preferences
+# Collaboration Preferences — Current Founder Positioning
 
-## Preferred Work Shape
+**As of 16 October 2026:** I operate primarily as an independent founder/builder through **Razorglint Labs / TCOG Collective LLC**. This portfolio is intended for product/technology discussions **first**, rather than as a standing application for salaried employment.
 
-- Remote
-- Fractional / contract
-- 8–16 hours per week preferred
-- Up to 24 hours per week only when the scope is clear
-- Deliverable-based work preferred
-- Low meeting load
-- International remote clients preferred
+Good conversations concern a scoped engineering deliverable, security/evidence workflow, proof demonstration, evaluation, OEM/technology license, product integration or other mutually agreed commercial collaboration.
 
-## Best Types of Work
+My work benefits from explicit technical scope, source/rights boundaries, reproducible acceptance criteria, an agreed communication channel and bounded support obligations.
 
-- Python automation
-- internal tools
-- LLM workflows
-- AI-adjacent product tooling
-- FastAPI tools
-- governance tooling
-- security-aware automation
-- evidence/report generation
-- compliance and policy proof-of-concept tools
-- local-first product prototypes
+I favor focused practical work over excessive meetings, and remote/distributed collaboration where suitable. This page does **not** make a public commitment to a fixed weekly schedule, immediate availability, certification or full-time employment.
 
-## Work I Am Strongest At
-
-- Turning unclear risks into structured systems
-- Building prototypes that produce usable evidence
-- Designing plain-English operator flows
-- Creating testable governance logic
-- Writing documentation that buyers and non-technical stakeholders can understand
-- Combining product thinking with technical implementation
-
-## Work I Prefer To Avoid
-
-- Full-time roles that block founder work
-- High-meeting corporate environments
-- Generic web development unrelated to automation, governance, AI workflows, internal tools, or security
-- Roles where the main value is bureaucracy instead of building
-- Work requiring relocation or daily office presence
-
-## Contract Positioning
-
-Suggested titles for opportunities:
-
-**Fractional Systems Developer**  
-**Python Automation Engineer**  
-**Systems Developer — Python / LLM / Governance Tooling**
+[Main portfolio](README.md) · [Project examples](PROJECTS.md) · [Contact](mailto:razorglint.ops@protonmail.com)

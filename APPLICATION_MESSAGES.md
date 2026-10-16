@@ -1,3 +1,5 @@
+> **ARCHIVED POSITIONING · 16 October 2026:** This document is an earlier recruiter/employment-oriented draft and contains historical project counts, work-hour preferences or availability language that is **not current**. Use the [portfolio landing page](README.md) and [dated results](CURRENT_RESULTS_2026-10-16.md) for current public-facing information; do not republish this draft without review.
+
 # Application Messages - Damian G.L. Ketting
 
 Use these as starting points for Lemon.io, Reflow-style fractional roles, AI tooling roles, and remote contractor opportunities.

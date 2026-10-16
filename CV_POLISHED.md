@@ -1,3 +1,5 @@
+> **ARCHIVED POSITIONING · 16 October 2026:** This document is an earlier recruiter/employment-oriented draft and contains historical project counts, work-hour preferences or availability language that is **not current**. Use the [portfolio landing page](README.md) and [dated results](CURRENT_RESULTS_2026-10-16.md) for current public-facing information; do not republish this draft without review.
+
 # Damian G.L. Ketting
 
 **Systems Developer | Python Automation | LLM Workflows | Governance & Security Tooling**  

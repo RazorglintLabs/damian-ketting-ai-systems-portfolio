@@ -1,167 +1,29 @@
-# Case Studies
+# Selected Engineering Case Studies — 16 October 2026
 
-These case studies translate selected systems into practical recruiter language.
+These are **design/build cases**, not claims of deployments into named customers. See [dated evidence register](CURRENT_RESULTS_2026-10-16.md).
 
----
+## 1. Compliance Drift Detector — Making checkpoint drift legible
+**Pain:** A policy can appear healthy today while an earlier observation showed a below-threshold state.  
+**Approach:** Structured operator-supplied claims/observations; deterministic classifications; history and recovery display; separate report/evidence JSON consistency verification.  
+**Observed result:** 76 test regressions in linked Oct 16 Windows/Linux CI and accepted unsigned portable Windows preview, using synthetic example input.  
+**Not shown:** raw-log intelligence, data-source authenticity, continuous collection or certification.  
+**Skills:** Python, CSV/JSON workflow, GUI packaging, reporting, verification, platform CI.
 
-## Case Study 1 — Making Compliance Drift Visible
+## 2. Prestige-Reforged — An evidence boundary for claims
+**Pain:** A report or marketing claim can drift away from the exact inputs and source state supposedly supporting it.  
+**Approach:** Model source identity, evidence custody, evaluation, historical transitions and claim readiness separately. Require explicit acceptance rather than converting incomplete proof into PASS.  
+**Status:** Private staged engineering. Desktop UI/search and installer acceptance still under review, not a general release.  
+**Skills:** deterministic architecture, test-driven development, evidence governance, acceptance gates.
 
-### Problem
+## 3. Command Guardian — Receipts for terminal safety
+**Pain:** Blocking a dangerous command without an explainable record is a weak operating control.  
+**Approach:** Deny-first classification, tested bypass corrections and SHA-256 chained receipts with sanitization.  
+**Observed result:** Historical 131-test passing snapshot from April 2026.  
+**Not shown:** complete command safety, digital signatures, SAR integration or production readiness.  
+**Skills:** security-aware CLI engineering, adversarial fixtures, receipts, bounded claims.
 
-Policies say one thing. Systems slowly evolve into something else. Teams often notice only when an audit, incident, or customer review forces the issue.
-
-### System Response
-
-Compliance Drift Detector models the gap between declared policy and observed behavior:
-
-1. parse policy claims,
-2. observe behavior evidence,
-3. map claims to evidence,
-4. classify alignment state,
-5. produce human-readable and machine-readable reports,
-6. seal outputs with hashes.
-
-### Skills Demonstrated
-
-- Python automation,
-- evidence modeling,
-- deterministic classification,
-- compliance-aware product thinking,
-- local-first report generation,
-- plain-English output design.
-
-### Recruiter Translation
-
-I can build tools that turn messy governance problems into visible, actionable reports.
-
----
-
-## Case Study 2 — Safer Terminal Execution
-
-### Problem
-
-Developer and automation workflows often rely on dangerous terminal commands. A single copied command, script, or destructive pattern can cause real damage.
-
-### System Response
-
-Command Guardian creates a safety layer:
-
-1. classify command intent,
-2. hard-deny dangerous patterns,
-3. require explicit authorization for risky actions,
-4. execute through a single controlled point,
-5. write audit receipts,
-6. verify the audit chain.
-
-### Skills Demonstrated
-
-- CLI design,
-- threat-aware engineering,
-- deny-by-default policy,
-- command classification,
-- test coverage,
-- adversarial bypass thinking,
-- receipt and audit design.
-
-### Recruiter Translation
-
-I build guardrails that are practical, testable, and explainable.
-
----
-
-## Case Study 3 — Proof-First Claims
-
-### Problem
-
-Teams often make claims like “secure,” “compliant,” or “production-ready” without proving what those words actually mean.
-
-### System Response
-
-Prestige Forge introduces claim safety:
-
-1. run checks,
-2. capture evidence,
-3. bind evidence to commit,
-4. create proof records,
-5. assemble proof bundles,
-6. evaluate claims against available proof.
-
-### Skills Demonstrated
-
-- verification workflows,
-- evidence modeling,
-- claim boundaries,
-- CLI architecture,
-- deterministic outputs,
-- system documentation,
-- governance pattern design.
-
-### Recruiter Translation
-
-I help teams say only what their evidence supports — useful for AI, security, compliance, and buyer trust.
-
----
-
-## Case Study 4 — Application Layer With Local Control
-
-### Problem
-
-Modern applications often sprawl across APIs, memory stores, UI surfaces, scripts, and unclear governance logic.
-
-### System Response
-
-LocalChad / CTLM work created a local application layer with:
-
-- FastAPI backend,
-- typed REST routes,
-- vector memory concepts,
-- OpenAI SDK integration,
-- React/Electron control room surface,
-- diagnostic scripts,
-- packaging and demo flows,
-- governance integration points.
-
-### Skills Demonstrated
-
-- backend engineering,
-- product wiring,
-- UI/backend coordination,
-- API design,
-- local-first architecture,
-- LLM workflow integration,
-- packaging awareness.
-
-### Recruiter Translation
-
-I can build more than isolated scripts; I can help shape a usable product workflow.
-
----
-
-## Case Study 5 — Evidence Preservation Instead Of “Trust Me”
-
-### Problem
-
-When systems fail, teams often have logs, screenshots, notes, and claims scattered everywhere. Evidence becomes hard to trust and hard to explain.
-
-### System Response
-
-Several Razorglint systems explore repeatable evidence patterns:
-
-- hash-chained receipts,
-- signed or sealed proof records,
-- portable proof bundles,
-- read-only evidence archives,
-- source maps,
-- verification commands.
-
-### Skills Demonstrated
-
-- evidence architecture,
-- audit-trail thinking,
-- documentation discipline,
-- safe public claim wording,
-- reproducible verification design.
-
-### Recruiter Translation
-
-I build systems with receipts. Not vibes. Receipts.
+## 4. Viventia + VEAC — Separation of product from examiner
+**Pain:** Software should not declare its own overall security simply because its happy-path suite passed.  
+**Approach:** Product focuses on scoped operational evidence; a separate adversarial examiner retains campaign scopes, hostile cases and target identity.  
+**Status:** Private work in development; an examiner's CLEAR result is never a certificate.  
+**Skills:** threat-boundary separation, source provenance, hostile testing, operator-centered assurance design.
