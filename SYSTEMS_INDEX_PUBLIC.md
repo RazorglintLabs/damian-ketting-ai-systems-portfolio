@@ -1,36 +1,30 @@
-# Systems Index — Public Summary
+# Public Systems Index — Evidence-Aware (16 October 2026)
 
-This index summarizes finished systems from the supplied handbooks. It is intended as a recruiter-safe map, not a full evidence dump.
+Do **not** treat every row as a standalone product, public download, accepted integration or current test result. Dates and scope matter.
 
-| # | System | Category | Public-Safe Core | Proof State | Recruiter Signal |
-|---:|---|---|---|---|---|
-| 1 | SAR | Agent governance | Ed25519-signed policy + receipt chain + fail-closed guardian | 243 tests | governed AI/agent workflow thinking |
-| 2 | FleetSim | Execution governance | Trust-plane simulation with severity ladder + RTH pre-auth | 103 tests | safety, gates, runtime controls |
-| 3 | EU AI Act Readiness | Policy/compliance readiness | Read-only evidence compiler + adapter architecture | 66 tests, 33 boundary checks | compliance evidence automation |
-| 4 | IronSeal | Execution governance | Deny-by-default cages + monotonic budgets + domain-separated Merkle | 8 test files | safety, gates, runtime controls |
-| 5 | VerdictGate | Decision/verdict engine | Policy evaluation + crypto + SDK-style access patterns | 8/8 Rust tests | decision logic and verdict modeling |
-| 6 | ProofChain | Audit ledger | Incremental Merkle accumulator + server/client proof pattern | 20/20 Rust tests | tamper-evident evidence systems |
-| 7 | SealVault | Evidence sealing | Hash-only transmission + five-question seal pattern | 23/23 Rust tests | cryptographic proof workflows |
-| 8 | Blackiron | Cryptographic substrate | SHA-256 chains + domain-separated Merkle + HLC + receipts | Integration tests pass | low-level proof infrastructure |
-| 9 | Voidlock | Execution governance | Zero-trust void cages + capability attenuation + stateless judge | 6 test files | safety, gates, runtime controls |
-| 10 | PolicySourceEngine | Policy/compliance readiness | Deterministic policy pack loader + checklist evaluator | 4 test files | compliance evidence automation |
-| 11 | TrustContinuityMapper | Drift/trust continuity | Trust timeline reconstruction + segment classification | Demo + verify | trust and drift analysis |
-| 12 | DecisionProvenanceTracker | Decision/verdict engine | Decision lineage graph with hash-verified edges | Demo + verify | decision logic and verdict modeling |
-| 13 | ComplianceDriftDetector | Drift/trust continuity | Policy-behavior alignment engine + trend detection | 27 tests, all PASS | trust and drift analysis |
-| 14 | ReasonForge | Data quality / ML pipeline | Schema validation + dedup + leakage detection + Pass@1 | 93 tests, all PASS | LLM data quality and eval tooling |
-| 15 | Isengard | Automation gateway | n8n + FastAPI gateway + deny-by-default + kill switch | Policy + audit + smoke tests | safe automation orchestration |
-| 16 | SAR_LIFEBOAT | Archive/lifeboat | SHA-256 verified evidence archive outside production | Hash verification | evidence preservation |
-| 17 | BountyPipeline | Supply-chain/security research | Signal triage + evidence packing + claim safety | 315 tests, all PASS | security research workflow |
-| 18 | Developer Supply-Chain Proof Kit | Supply-chain/security research | Read-only local exposure scanner + receipt chain | Sample project verification | security research workflow |
-| 19 | Command Guardian | Execution governance | Gate 0 + 4-gate terminal enforcement + sanitized DENY receipts | 131 tests, all PASS | safety, gates, runtime controls |
-| 20 | OpenClaw | Agent governance | Governed agent stack with deny-by-default + receipt pipeline | Field-reconciled | governed AI/agent workflow thinking |
-| 21 | Razorglint Painpoint Solver | Buyer-facing product candidate | Pain-to-system-to-proof navigation | Documentation-only | commercial product mapping |
-| 22 | Rust_Modules | Cryptographic/data substrate | Sovereign Rust crates for cache, ledger, vector, and text workflows | 87 tests, all PASS | Rust/data/proof primitives |
+| System/family | Primary capability | Proof/maturity shown publicly |
+| --- | --- | --- |
+| [Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector) | Structured policy/evidence drift; history and verifier | **Current 16 Oct:** 76 CI tests + unsigned Windows v0.2 controlled evaluation acceptance; [receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md) |
+| Prestige-Reforged | Evidence admission, claims, history, proof handoff, UI | Private staged development; UI/Windows release gates remain |
+| SAR | Scoped policy enforcement and receipts | Historical private system tests; no live integrated deployment claim |
+| Viventia | Local-first incident/evidence cockpit | Private ongoing product work; not EDR/SIEM |
+| VEAC | Separate adversarial challenge | Private campaigns, no overall certification |
+| GCA Stack | Candidate cross-system governed automation package | Source/IP/component admission ongoing; not a released stack |
+| Command Guardian | Local terminal command guardrails | **Historical 131 passing**, hardened prototype, receipt signing deferred |
+| OpenClaw | Governed agent/action mechanism | Historical reported 1,578 passing (April); source/IP carve-out not current release evidence |
+| Voidlock | Capability-constrained execution | Historical 54-pass local record; not a certified sandbox |
+| FleetSim | Fleet trust-plane simulation | Historical 103-pass snapshot, simulation only |
+| Blackiron | Cryptographic evidence primitives | Historical 53-pass local record |
+| ProofChain / SealVault | Evidence/history and sealing primitives | Local/historical implementations; current transfer boundary requires audit |
+| EU AI Act Evidence Readiness Sprint | Read-only evidence/article mapping | Historical 194-pass record with env caveats; six articles only |
+| ReasonForge | LLM data-quality/evaluation tooling | Separate source/product; fresh test state not asserted here |
+| Trust Continuity Mapper / Decision Provenance Tracker | Event trust and decision lineage | Executable demos within another private repo; carve-out required |
+| LocalChad / CTLM / ChessClock | Governed workstation, memory and time/evidence concepts | Mixed component-level maturity; dependency audit required |
+| CalledIt | Prediction-sealing consumer app | Standalone app source; no verified traffic/revenue shown here |
+| PolicySourceEngine / VerdictGate | Policy source and explicit verdict mechanisms | Historical local source and qualification notes |
+| BountyPipeline / developer supply-chain tooling | Security-research and exposure proof workflows | Distinct prototype tools, assess exact source and rights |
+| Strategic Manager / Philosophy Ledger ideas | Private decision assistance and philosophical perspectives | Application design/build exploration, **not a launched product** |
 
----
+Historical named test counts derive from the [dated April source](https://github.com/RazorglintLabs/systems-architecture/blob/main/assets/proof/PROOF_AUDIT_2026-04-26.md), **not** from retesting in October. The list is an inventory **without automatic ownership, maturity, pricing or transfer approval**.
 
-## Public Safety Rule
-
-Do not publish raw internal handbooks unless each one is reviewed for sensitive paths, private claims, internal architecture details, exploit-adjacent implementation detail, customer assumptions, and proprietary strategy.
-
-The recruiter repo should summarize the systems; it should not become a dump truck of internal doctrine.
+See [current results](CURRENT_RESULTS_2026-10-16.md), [projects](PROJECTS.md) and [publication safety](PUBLICATION_SAFETY_NOTES.md).
