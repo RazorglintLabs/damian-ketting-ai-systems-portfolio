@@ -16,6 +16,8 @@ Independent engineer and Razorglint Labs founder working across **Python automat
 | **[Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector)** | **76 regression tests passed** in 16 Oct 2026 Windows/Linux Python CI; source-linked verification, deterministic reports and accepted unsigned Windows controlled preview. [Exact receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md). |
 | **Viventia / VEAC** | Ongoing private evidence-cockpit and independent adversarial-testing work, with explicit source/authority limits. Not a finished enterprise release. |
 
+**Further scoped work:** [BRE verification](CASE_BRE_2026-11-20.md) · [Elite Pantry evidence methods](CASE_ELITE_PANTRY_2026-11-20.md) · [Proton-related offline research](CASE_PROTON_RESEARCH_2026-11-20.md) (no vulnerability or bounty claimed).
+
 **Tools and methods:** Python · pytest/unittest · Playwright (recent) · GitHub Actions · Git · JSON/CSV · negative-path tests · reproducible defects · technical documentation.
 
 **Experience:** Razorglint Labs / TCOG Collective LLC, founder and independent systems builder, **2025–present**. Engineering is AI-assisted where appropriate, with real test execution and evidence review. I do not claim conventional four-year QA employment or long-standing professional Playwright experience.
