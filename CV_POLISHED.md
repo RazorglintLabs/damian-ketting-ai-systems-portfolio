@@ -1,110 +1,27 @@
-> **ARCHIVED POSITIONING · 16 October 2026:** This document is an earlier recruiter/employment-oriented draft and contains historical project counts, work-hour preferences or availability language that is **not current**. Use the [portfolio landing page](README.md) and [dated results](CURRENT_RESULTS_2026-10-16.md) for current public-facing information; do not republish this draft without review.
+# Damian G. L. Ketting
+**Fractional QA Automation · Python Test Engineering · AI Evaluation**
 
-# Damian G.L. Ketting
+**Belgium | Fully remote B2B | Approximately 16 hours / 2 days per week (CET)**  
+[razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com) · [Engineering portfolio](README.md)
 
-**Systems Developer | Python Automation | LLM Workflows | Governance & Security Tooling**  
-Remote / Europe-friendly · Fractional contract work · GitHub: **RazorglintLabs** · Email: **razorglint.ops@protonmail.com**
+## Build the test. Reproduce the failure. Show the evidence.
 
----
+Independent engineer and Razorglint Labs founder working across **Python automation, regression testing, source-bound verification and security-aware software**. I turn ambiguous behavior into defined test cases, CI results and inspectable technical handoffs.
 
-## Profile
+### Selected evidence
 
-Founder-builder focused on practical systems: Python automation, local-first tools, LLM workflow support, governance checks, evidence pipelines, security-aware guardrails, and proof-based product architecture.
+| Project | Demonstrated work |
+| --- | --- |
+| **Playwright QA (20 Nov 2026)** | **9/9 Chromium browser/HTTP regression tests passed** in GitHub Actions; navigation, legal content, mobile overflow and positive/negative HTTP responses. [Case study](PLAYWRIGHT_QA_CASE_2026-11-20.md). Private draft PR; recent Playwright adoption. |
+| **[Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector)** | **76 regression tests passed** in 16 Oct 2026 Windows/Linux Python CI; source-linked verification, deterministic reports and accepted unsigned Windows controlled preview. [Exact receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md). |
+| **Viventia / VEAC** | Ongoing private evidence-cockpit and independent adversarial-testing work, with explicit source/authority limits. Not a finished enterprise release. |
 
-I build systems that help teams answer operational questions with evidence instead of guesswork:
+**Tools and methods:** Python · pytest/unittest · Playwright (recent) · GitHub Actions · Git · JSON/CSV · negative-path tests · reproducible defects · technical documentation.
 
-- What happened?
-- Was it allowed?
-- What proof exists?
-- Where did policy, trust, or compliance drift?
-- Which claim is safe to make?
+**Experience:** Razorglint Labs / TCOG Collective LLC, founder and independent systems builder, **2025–present**. Engineering is AI-assisted where appropriate, with real test execution and evidence review. I do not claim conventional four-year QA employment or long-standing professional Playwright experience.
 
-My strongest work is turning unclear operational risk into **testable, verifiable, usable systems**.
+**Best fit:** fractional QA automation, Python test work, engineering evaluations, source-backed regression improvements and bounded integration assignments.
 
----
+**Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com) · [Detailed technical CV](CV.md) · [Current work preferences](WORK_PREFERENCES.md)
 
-## Best Fit
-
-- Fractional Systems Developer
-- Python Automation Engineer
-- LLM Workflow Engineer
-- Governance / Evidence Tooling Developer
-- Security-Aware Product Prototyper
-- Internal Tools Builder
-- AI-adjacent Automation Developer
-
-Preferred work shape: **remote, fractional, 8-16 hours/week**, up to 24 hours/week when scope is clear.
-
----
-
-## Core Skills
-
-**Python & backend**  
-Python 3.10+, FastAPI, Pydantic, Uvicorn, CLI tooling, pytest, JSON/CSV pipelines, local-first automation, report generation.
-
-**LLM / AI-adjacent systems**  
-OpenAI SDK, LLM workflow wiring, prompt/response evaluation concepts, vector memory concepts, FAISS exposure, AI-assisted development workflows, model-agnostic governance layers.
-
-**Governance & security tooling**  
-SHA-256 receipts, hash-chained audit trails, policy gates, deny-by-default design, evidence bundles, claim-safety boundaries, compliance drift detection, tamper-evident reports.
-
-**Product delivery**  
-Plain-English documentation, buyer verification flows, self-service quickstarts, demo kits, system handbooks, commercial positioning, operator-facing reports.
-
-**Additional exposure**  
-Rust, Go, TypeScript, React/Electron, PowerShell, Bash, PyInstaller, desktop packaging concepts.
-
----
-
-## Founder Work
-
-### Razorglint Labs - Founder / Systems Builder  
-**2025-present**
-
-Built a portfolio of governance, evidence, automation, LLM-support, policy, and security-aware systems. Work includes product concepts, prototypes, CLI tools, verification flows, proof records, receipts, local reports, and public-safe documentation.
-
-Representative systems:
-
-- **Prestige Forge** - proof-first verification and claim-safety engine.
-- **Compliance Drift Detector** - policy-vs-behavior drift detection and local reports.
-- **Command Guardian** - terminal safety layer with deny-by-default policy and hash-chained receipts.
-- **ReasonForge** - LLM data quality firewall for validation, deduplication, leakage checks, and evaluation flows.
-- **LocalChad / CTLM** - local application layer with FastAPI, typed routes, vector memory concepts, telemetry, and governance integration.
-- **ProofChain / SealVault / Blackiron** - cryptographic and tamper-evident proof primitives.
-- **TrustContinuityMapper / DecisionProvenanceTracker** - trust timeline and decision-lineage mapping.
-- **PolicySourceEngine / EU AI Act Evidence Readiness** - policy-pack loading and compliance evidence readiness tooling.
-
----
-
-## Selected Project Evidence
-
-Project-reported proof states from public repos and supplied handbooks. Full source/proprietary material is not published in this recruiter portfolio.
-
-| Project | What it demonstrates | Reported proof state |
-|---|---|---|
-| Prestige Forge | Verification engine, claim safety, proof bundles | 18 modules, 798 tests, 100 validator checks |
-| Command Guardian | CLI safety, deny-by-default gates, audit receipts | 131 tests, all PASS |
-| Compliance Drift Detector | Policy-vs-behavior alignment and drift reporting | 27 tests, all PASS |
-| ReasonForge | LLM data quality gates and evaluation support | 93 tests, all PASS |
-| SAR | Governed agent workflow and receipt chains | 243 tests |
-| BountyPipeline | Security research triage and evidence packing | 315 tests, all PASS |
-| Rust Modules | Rust crates for cache, ledger, vector, and text workflows | 87 tests, all PASS |
-
----
-
-## Work Style
-
-- Build-first, evidence-first, plain-English delivery.
-- Strong at turning vague problems into structured tools.
-- Comfortable working with AI-assisted development while keeping human judgment and claim boundaries explicit.
-- Prefer clear deliverables over heavy meeting schedules.
-- Strongest in small teams, founder-led teams, internal tools, automation, governance, AI workflows, and security-adjacent product work.
-
----
-
-## Availability
-
-Remote fractional contract work.  
-Preferred: **8-16 hours/week**.  
-Maximum: **24 hours/week** with clear scope and low meeting load.  
-International remote clients preferred.
+*Updated 20 November 2026. Project-level results are dated and bounded. Private material available only through authorized review.*
