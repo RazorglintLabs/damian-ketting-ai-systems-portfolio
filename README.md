@@ -22,6 +22,8 @@ I work with AI-assisted engineering tools, test their output and review results 
 
 Interested in **fractional QA automation, Python testing, technical evaluation and tightly scoped engineering assignments**. Preferred arrangement: remote B2B from Belgium, approximately **two days / 16 hours per week**, with Central European Time overlap.
 
+**Recruiter documents:** [Technical CV](CV.md) · [Concise CV](CV_POLISHED.md) · [Playwright QA case study](PLAYWRIGHT_QA_CASE_2026-11-20.md). Both CVs are aligned to the **20 November 2026** engineering evidence and availability.
+
 For product/IP collaborations and other projects see [selected project records](PROJECTS.md), [case studies](CASE_STUDIES.md) and the [historical evidence register](CURRENT_RESULTS_2026-10-16.md). Those records are dated; do not treat them as current all-system test runs.
 
 **Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com) · [Razorglint Labs](https://github.com/RazorglintLabs)
