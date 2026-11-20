@@ -42,6 +42,13 @@ Deterministic analysis of structured, operator-classified policy observations ov
 Local-first incident/evidence presentation with a separately scoped adversarial examiner. Work emphasizes hostile scenarios, source identity, clear UNKNOWN/VERIFIED boundaries and repeatable qualification. **Still under development**; no enterprise production deployment, certification or globally approved safety result claimed.
 
 ### Other engineering work
+
+**[Blueprint Roundtrip Engine](CASE_BRE_2026-11-20.md):** Deterministic source/work-unit preflight, structural JSON regression and single-key detached repair candidates, with reviewable evidence. Synthetic and internal qualification only.
+
+**[Elite Bounty Pantry](CASE_ELITE_PANTRY_2026-11-20.md):** Eligibility/rights gates, reusable test method matching, JSON oracle and portable evidence ZIP verification; no accepted paid bounty or autonomous repair claim.
+
+**[Proton-related public-source research](CASE_PROTON_RESEARCH_2026-11-20.md):** Offline, source-pinned inspection and synthetic permission-model regression methodology. No confirmed vulnerability, submission, payout or vendor affiliation.
+
 **Command Guardian:** deny-first command-guard prototype and auditable receipt tests; a **historical April 2026** snapshot recorded 131 passing cases, not a current production certification.  
 **ReasonForge:** LLM dataset validation, deduplication, leakage checks and evaluation tooling; current acceptance claims remain repository-specific.
 
