@@ -1,46 +1,61 @@
-# Damian G. L. Ketting — Founder & Systems Builder
+<div align="center">
 
-**Razorglint Labs · Evidence-first engineering, governed automation and local-first tools**  
-*Portfolio refreshed 16 October 2026*
+# Damian G. L. Ketting
 
-I design and build software where **an operation, decision or claim should be explainable against its actual evidence**. My work spans deterministic Python tooling, security-aware automation, product/desktop surfaces, LLM-data workflows and provenance systems.
+**QA Automation · Python Engineering · Evidence-Driven Systems**
 
-I operate through **Razorglint Labs / TCOG Collective LLC**. This is primarily a **founder and technology portfolio**, not an assertion that I am seeking salaried employment. Relevant enquiries include bounded engineering collaborations, evaluations, integrations, licenses and carefully scoped strategic technology discussions.
+Independent engineer · Razorglint Labs / TCOG Collective LLC  
+**Belgium · Remote B2B · Approximately 16 hours / two days per week**
 
-## Engineering focus
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- **Evidence before adjectives:** exact source identity, repeatable checks, explicit missing-evidence states and claims no stronger than their proof.
-- **Governance separated from execution:** permission, action, observation and independent assurance must have distinct authorities.
-- **Local-first where the product supports it:** usable offline paths, inspectable data flows and no invented “zero cloud” claim for every tool.
-- **Product delivery, not only prototypes:** readable reports, operator-facing UI, verification commands, build/CI receipts and honest release gates.
+**[Detailed CV](CV.md) · [Concise CV](CV_POLISHED.md) · [QA case study](PLAYWRIGHT_QA_CASE_2026-11-20.md) · [Contact](mailto:razorglint.ops@protonmail.com)**
 
-## Selected work
+</div>
 
-| System | What it addresses | Verified or documented status |
+---
+
+## Engineering that can be inspected
+
+**Reproduce the failure. Verify the correction. Preserve the evidence.**
+
+My work combines Python testing, scoped automation, source-pinned verification and practical software delivery. I use AI-assisted development where appropriate, then check outcomes through tests, reviews and actual execution evidence.
+
+| Selected work | What I can demonstrate | Proof boundary |
 | --- | --- | --- |
-| [Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector) | Structured policy vs operator-supplied evidence history | **16 Oct 2026:** 76-test Windows/Linux CI; owner-accepted **unsigned v0.2 Windows x64 controlled-evaluation preview**, not a signed enterprise release. [Exact receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md). |
-| **Prestige-Reforged** (successor to Prestige-Forge) | Evidence/claim validation, history/drift and proof handoff | Private staged product development and qualification; Windows UI/search/release work still gated, not general availability. |
-| **Viventia / VEAC** | Local-first operational evidence cockpit; separately governed adversarial challenge | Private engineering and qualification. Viventia is not SIEM/EDR; VEAC never certifies its target. |
-| **SAR / governed-automation components** | Policy authority, receipted decisions and constrained actions | Historical standalone proof, plus ongoing candidate integration/admission work; no integrated production claim. |
-| **Command Guardian** | Command guardrails and audit chain | Historical **131 passing tests** for a hardened **prototype**, not production-ready; receipt signing deferred. |
-| **ReasonForge** | LLM/fine-tuning dataset quality and evaluation tooling | Distinct data-validation/evaluation work; current source and delivery posture must be assessed per asset. |
-| **ProofChain / SealVault / Blackiron / trust reconstruction** | Evidence integrity, timeline and decision lineage | Selected local/private components and demos; verify exact current source before assuming buyer-ready release. |
+| **[Playwright regression suite](PLAYWRIGHT_QA_CASE_2026-11-20.md)** | **9/9 Chromium tests passed**, 20 Nov 2026; browser navigation, page content, mobile overflow and HTTP 200/404 assertions, with JUnit and failure-evidence retention | GitHub Actions run on a **private draft PR**; not a public test package or large production QA deployment |
+| **[Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector)** | **76 regression cases passed** in Windows/Linux CI, 16 Oct 2026; deterministic checkpoint reports and integrity-verifiable JSON | [Public release receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md); unsigned, controlled-evaluation Windows preview |
+| **Viventia / VEAC** | Local-first incident evidence, scoped product projections and separate adversarial examination | Active **private** engineering; no completed G4 pilot, enterprise deployment or blanket security certification |
 
-[Selected project descriptions](PROJECTS.md) · [Case studies](CASE_STUDIES.md) · [Dated results & evidence boundaries](CURRENT_RESULTS_2026-10-16.md) · [Public systems index](SYSTEMS_INDEX_PUBLIC.md)
+## Bounded engineering workbench
 
-## Where the results live
+Three additional case studies demonstrate **how I scope, test and review software**, without distributing proprietary code.
 
-The [Systems Architecture](https://github.com/RazorglintLabs/systems-architecture) repo preserves the **26 April 2026 portfolio proof audit** as a historical snapshot. Its **3,505 executed passes** are **not** a fresh October all-system test run, and recorded skips/environment caveats remain material. Current product receipts belong with the current source; an accessible example is CDD's October 2026 CI/release record.
+| Case | Engineering contribution | Case study |
+| --- | --- | --- |
+| **Blueprint Roundtrip Engine (BRE)** | Source-aware work-unit review, deterministic JSON regression, minimal detached config candidates and evidence handoff | **[BRE · Engineering proof](CASE_BRE_2026-11-20.md)** |
+| **Elite Bounty Pantry** | Opportunity/rights gates, structured regression oracle, evidence ZIP verification and strictly blocked review handoff | **[Elite Pantry · Engineering proof](CASE_ELITE_PANTRY_2026-11-20.md)** |
+| **Proton-related public-source research** | Offline source-pinned analysis and synthetic permission-state regression methodology; **no confirmed vulnerability or bounty** | **[Research method · Scope and results](CASE_PROTON_RESEARCH_2026-11-20.md)** |
 
-Private systems are intentionally described without publishing private implementation, buyer diligence, customer information or sale economics. Public repo access does not automatically grant open-source or commercial rights.
+## Technical stack and working style
 
-## Collaboration
+![Go](https://img.shields.io/badge/Go-exposure-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-exposure-000000?logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-exposure-3178C6?logo=typescript&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-structured%20data-374151?logo=json&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-testing-0078D4?logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CI-FCC624?logo=linux&logoColor=black)
 
-Interested in an evaluation, technology license, OEM/integration discussion or bounded specialist engineering project? Include the problem, expected environment, system constraints and which evidence would make a pilot useful.
+**Daily engineering emphasis:** Python · pytest/unittest · regression and negative-path tests · Git/GitHub Actions · evidence manifests · API/HTTP checks · reproducible reports · human-reviewed AI workflows. Go, Rust and TypeScript are **selected project exposure**, not a claim of equal production proficiency across every language.
 
-**Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com)  
-**Organization:** [Razorglint Labs](https://github.com/RazorglintLabs)
+**Engagement:** open to fractional QA automation, Python testing, AI-output evaluation and scoped engineering contracts. Approximately **16 remote hours/week**, Belgium/CET, B2B where eligible.
 
-*Legacy recruiter/CV materials remain in this repository for reference; see [Work Preferences](WORK_PREFERENCES.md) for current founder-first positioning.*
+[Selected projects](PROJECTS.md) · [Engineering case studies](CASE_STUDIES.md) · [Dated historical receipts](CURRENT_RESULTS_2026-10-16.md) · [Systems Architecture](https://github.com/RazorglintLabs/systems-architecture)
 
-© 2026 Razorglint Labs / TCOG Collective LLC. Proprietary rights remain governed by each asset's notices and contracts.
+**Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com)
+
+<sub>Updated 20 November 2026. Independent project experience, not a claim of four years of employed QA automation or long-standing commercial Playwright use. Historical results remain dated; private code and third-party research stay under their rights and disclosure boundaries. © 2026 Razorglint Labs / TCOG Collective LLC.</sub>

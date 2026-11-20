@@ -1,128 +1,63 @@
-> **ARCHIVED POSITIONING · 16 October 2026:** This document is an earlier recruiter/employment-oriented draft and contains historical project counts, work-hour preferences or availability language that is **not current**. Use the [portfolio landing page](README.md) and [dated results](CURRENT_RESULTS_2026-10-16.md) for current public-facing information; do not republish this draft without review.
+# Damian G. L. Ketting
+**Fractional QA Automation & Python Engineering | Regression Testing | Evidence-Driven Software**
 
-# Damian G.L. Ketting — CV
+Belgium · Fully remote / CET overlap · B2B through Razorglint Labs / TCOG Collective LLC  
+[razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com) · [GitHub engineering portfolio](README.md) · [Razorglint Labs](https://github.com/RazorglintLabs)  
+**Availability: approximately 16 hours per week (two days)** · Updated **20 November 2026**
 
-**Systems Developer | Python Automation | LLM Workflows | Governance & Security Tooling**  
-Damian G.L. Ketting · GitHub: RazorglintLabs · Email: razorglint.ops@protonmail.com · Remote / Europe-friendly
+## Professional profile
 
----
+Independent software builder focused on **repeatable failures, automated checks and verifiable results**. Develop and assess Python-based tools, local-first applications, test suites and engineering workflows. Practical experience covers regression and negative-path cases, GitHub Actions CI, structured JSON/CSV workflows, evidence integrity and technical handoff documentation.
 
-## Profile
+Recent browser-automation work adds **Playwright/Pytest** to an existing Python testing background. Open to fractional QA automation, Python test-engineering, technical evaluation and controlled software-integration assignments.
 
-Founder-builder focused on practical systems: local-first governance tools, verification workflows, Python automation, LLM workflow support, security-aware tooling, and proof-based product architecture.
+## Technical capabilities
 
-I build systems that help teams answer hard operational questions:
+| Area | Working experience |
+| --- | --- |
+| **Testing** | Python `pytest` / `unittest`, deterministic fixtures, negative-path and regression design, defect reproduction, exact-source test receipts |
+| **Browser automation** | **Playwright + Chromium (new in Nov 2026)**: UI navigation, visible-content assertions, mobile-layout checks, HTTP 200/404 contract assertions |
+| **CI & source control** | Git, GitHub, GitHub Actions, Windows/Linux test matrices, JUnit reports, failure trace and screenshot retention |
+| **Python engineering** | CLI tools, local automation, JSON/CSV pipelines, report generation, source-bound verifiers |
+| **Security-aware quality** | Explicit permission boundaries, tamper-evidence, provenance checks, adversarial fixtures, review of unsupported claims |
+| **Other exposure** | FastAPI and application API concepts, desktop packaging, TypeScript/Go/Rust components, AI-assisted development workflows |
 
-- What did the system do?
-- Was it allowed?
-- What proof exists?
-- Can the claim be safely made?
-- Where did trust, policy, or compliance drift?
+## Selected project evidence
 
-My work combines practical engineering with governance discipline: deterministic checks, evidence artifacts, hash-chained receipts, plain-English reports, and explicit claim boundaries.
+### Browser regression suite | Playwright, Pytest and GitHub Actions
+**20 November 2026 · Private website repository / draft PR**
 
----
+Built an isolated localhost Chromium testing workflow for checked-out website source. It checks page titles, visible content, navigation, legal pages, mobile horizontal overflow and positive/negative HTTP responses. CI retains JUnit results and failure evidence.
 
-## Core Skills
+**Result: 9 passed, 0 failed, 1 deprecation warning; 5.41 seconds of test execution.** Source head: `0d9b4bca15d5d4009c64c64ba871c7fd6ca16cf3`. The source and CI are private; see the [public, non-confidential case study](PLAYWRIGHT_QA_CASE_2026-11-20.md). This is a **recent introduction to Playwright**, not years of commercial framework experience or a comprehensive application API suite.
 
-### Python & backend
+### [Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector) | Python regression & report verification
+**16 October 2026 · Public source and release receipt**
 
-- Python 3.10+
-- FastAPI
-- Pydantic
-- Uvicorn
-- CLI tools
-- Local-first automation
-- JSON/CSV evidence pipelines
-- Test-driven implementation
+Deterministic analysis of structured, operator-classified policy observations over dated checkpoints; JSON/HTML/Markdown reporting and independent output consistency checks. **76 passing regressions** in Windows/Linux Python 3.11/3.12 CI. An unsigned Windows v0.2 controlled-evaluation preview completed an owner walkthrough. [Exact source, CI and acceptance record](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md).
 
-### LLM / AI-adjacent systems
+### Viventia / VEAC | Adversarial assurance and controlled UI evidence
+**Active private engineering · Razorglint Labs**
 
-- LLM workflows
-- Prompt and response evaluation logic
-- Local AI tooling
-- Vector memory concepts
-- AI-assisted product development
-- Model-agnostic governance layers
+Local-first incident/evidence presentation with a separately scoped adversarial examiner. Work emphasizes hostile scenarios, source identity, clear UNKNOWN/VERIFIED boundaries and repeatable qualification. **Still under development**; no enterprise production deployment, certification or globally approved safety result claimed.
 
-### Security / governance
+### Other engineering work
 
-- Tamper-evident audit trails
-- SHA-256 hash chains
-- Receipt models
-- Policy gates
-- Deny-by-default design
-- Evidence packaging
-- Claim-safety boundaries
-- Compliance drift detection
+**[Blueprint Roundtrip Engine](CASE_BRE_2026-11-20.md):** Deterministic source/work-unit preflight, structural JSON regression and single-key detached repair candidates, with reviewable evidence. Synthetic and internal qualification only.
 
-### Product & delivery
+**[Elite Bounty Pantry](CASE_ELITE_PANTRY_2026-11-20.md):** Eligibility/rights gates, reusable test method matching, JSON oracle and portable evidence ZIP verification; no accepted paid bounty or autonomous repair claim.
 
-- Plain-English documentation
-- Buyer verification flows
-- Self-service quickstarts
-- Demo kits
-- Roadmaps
-- System handbooks
-- Commercial positioning
+**[Proton-related public-source research](CASE_PROTON_RESEARCH_2026-11-20.md):** Offline, source-pinned inspection and synthetic permission-model regression methodology. No confirmed vulnerability, submission, payout or vendor affiliation.
 
-### Additional stack exposure
+**Command Guardian:** deny-first command-guard prototype and auditable receipt tests; a **historical April 2026** snapshot recorded 131 passing cases, not a current production certification.  
+**ReasonForge:** LLM dataset validation, deduplication, leakage checks and evaluation tooling; current acceptance claims remain repository-specific.
 
-- Rust
-- Go
-- TypeScript
-- React / Electron
-- FAISS / vector search concepts
-- PowerShell and Bash workflow scripts
-- PyInstaller and desktop packaging concepts
+## Experience
 
----
+**Razorglint Labs / TCOG Collective LLC | Independent Founder & Systems Builder | 2025–present**
 
-## Selected Founder Work
+Developed engineering prototypes and controlled-evaluation tools; designed test cases, verified outputs against source evidence, documented known limits and maintained reproducible delivery records. Work uses AI-assisted engineering tools with review and execution-based verification rather than claiming unaided authorship of every implementation detail.
 
-### Razorglint Labs — Founder / Systems Builder  
-**2025–present**
+**Engagement sought:** roughly two remote days per week, fractional B2B, CET-compatible hours. Practical technical assessment and scoped paid evaluation work welcome.
 
-Built a portfolio of systems focused on governance, evidence, auditability, AI workflows, policy enforcement, and security-aware automation.
-
-Representative systems:
-
-- **Compliance Drift Detector** — compares policy declarations against system behavior evidence and classifies drift states.
-- **Command Guardian** — local-first terminal safety layer with deny-by-default policy and hash-chained receipts.
-- **Prestige Forge** — proof-first verification and claim-safety engine.
-- **ReasonForge** — data quality firewall for LLM fine-tuning pipelines.
-- **SAR / OpenClaw** — governed agent and automation proof concepts.
-- **ProofChain / SealVault / Blackiron** — cryptographic and tamper-evident proof primitives.
-- **PolicySourceEngine / EU AI Act Evidence Readiness** — compliance evidence and policy-readiness tooling.
-- **TrustContinuityMapper / DecisionProvenanceTracker** — trust timeline and decision-lineage mapping.
-
----
-
-## Selected Project Metrics
-
-These are project-reported proof states from handbooks and repositories. Each public claim should be reviewed against source evidence before commercial use.
-
-- Prestige Forge: 18 modules, 798 passing tests, 100 validator checks, zero external dependencies.
-- Command Guardian: 131 passing tests; hardened prototype with sanitized DENY receipts.
-- Compliance Drift Detector: policy-vs-behavior alignment engine with self-service CSV-to-report flow.
-- SAR: 243 tests reported in handbook index.
-- ReasonForge: 93 tests reported in handbook index.
-- Rust modules: 87 tests reported in handbook index.
-- FleetSim: 103 tests reported in handbook index.
-
----
-
-## Work Preferences
-
-- Remote fractional contract work
-- 8–16 hours/week preferred
-- Up to 24 hours/week only with clear scope and low meeting load
-- International remote clients preferred
-- Best work: productized prototypes, internal tools, LLM workflows, governance tooling, automation, evidence systems, and security-aware architecture
-
----
-
-## Contact
-
-- GitHub: **RazorglintLabs**
-- Email: **razorglint.ops@protonmail.com**
+*Project-based engineering experience, not a claim of four years in an employed QA position. No degree, certification, customer deployment or production experience is implied where not independently documented. Proprietary source shared only by authorization. © 2026 Razorglint Labs / TCOG Collective LLC.*
