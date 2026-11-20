@@ -1,31 +1,61 @@
+<div align="center">
+
 # Damian G. L. Ketting
-**Independent QA automation, Python engineering and evidence-driven testing**  
-Razorglint Labs / TCOG Collective LLC · Belgium · Remote B2B · **Available for approximately 16 hours/week**
 
-I build and test software with a simple standard: **show the failure, reproduce the result, preserve the evidence**. My work spans browser automation, regression and negative-path testing, deterministic Python tools, CI workflows and independently inspectable reports.
+**QA Automation · Python Engineering · Evidence-Driven Systems**
 
-## Three engineering examples
+Independent engineer · Razorglint Labs / TCOG Collective LLC  
+**Belgium · Remote B2B · Approximately 16 hours / two days per week**
 
-| Work | Demonstrated result | Evidence |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**[Detailed CV](CV.md) · [Concise CV](CV_POLISHED.md) · [QA case study](PLAYWRIGHT_QA_CASE_2026-11-20.md) · [Contact](mailto:razorglint.ops@protonmail.com)**
+
+</div>
+
+---
+
+## Engineering that can be inspected
+
+**Reproduce the failure. Verify the correction. Preserve the evidence.**
+
+My work combines Python testing, scoped automation, source-pinned verification and practical software delivery. I use AI-assisted development where appropriate, then check outcomes through tests, reviews and actual execution evidence.
+
+| Selected work | What I can demonstrate | Proof boundary |
 | --- | --- | --- |
-| **Playwright browser regression** | **9/9 passed** on 20 Nov 2026 in a GitHub Actions Chromium/Python 3.12 job. Covers navigation, mobile horizontal overflow, visible content and HTTP 200/404 checks. | [Bounded case study](PLAYWRIGHT_QA_CASE_2026-11-20.md); the tested repository and CI run are private. |
-| **[Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector)** | **76 passing tests** on Windows/Linux with Python 3.11/3.12 in the 16 Oct 2026 release qualification. Produces deterministic checkpoint analysis and separately verifiable JSON reports. | [Public exact-source build and test receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md). |
-| **Viventia / VEAC** | Development of local-first incident/evidence workflows and separately scoped adversarial qualification. Engineering remains active and privately reviewed. | [Scope and technical architecture](https://github.com/RazorglintLabs/systems-architecture); demonstrations by arrangement, not public executable evidence. |
+| **[Playwright regression suite](PLAYWRIGHT_QA_CASE_2026-11-20.md)** | **9/9 Chromium tests passed**, 20 Nov 2026; browser navigation, page content, mobile overflow and HTTP 200/404 assertions, with JUnit and failure-evidence retention | GitHub Actions run on a **private draft PR**; not a public test package or large production QA deployment |
+| **[Compliance Drift Detector](https://github.com/RazorglintLabs/ComplianceDriftDetector)** | **76 regression cases passed** in Windows/Linux CI, 16 Oct 2026; deterministic checkpoint reports and integrity-verifiable JSON | [Public release receipt](https://github.com/RazorglintLabs/ComplianceDriftDetector/blob/main/docs/RELEASE_STATUS.md); unsigned, controlled-evaluation Windows preview |
+| **Viventia / VEAC** | Local-first incident evidence, scoped product projections and separate adversarial examination | Active **private** engineering; no completed G4 pilot, enterprise deployment or blanket security certification |
 
-## Relevant capabilities
+## Bounded engineering workbench
 
-**Python · pytest/unittest · Playwright (recent, verified introduction) · Git/GitHub Actions · regression and negative-path design · HTTP checks · JSON/CSV workflows · source-bound evidence · technical documentation**
+Three additional case studies demonstrate **how I scope, test and review software**, without distributing proprietary code.
 
-I work with AI-assisted engineering tools, test their output and review results against the actual source and CI evidence. The portfolio is **independent project work**, not a claim of four years of employed QA automation or extensive commercial Playwright experience.
+| Case | Engineering contribution | Case study |
+| --- | --- | --- |
+| **Blueprint Roundtrip Engine (BRE)** | Source-aware work-unit review, deterministic JSON regression, minimal detached config candidates and evidence handoff | **[BRE · Engineering proof](CASE_BRE_2026-11-20.md)** |
+| **Elite Bounty Pantry** | Opportunity/rights gates, structured regression oracle, evidence ZIP verification and strictly blocked review handoff | **[Elite Pantry · Engineering proof](CASE_ELITE_PANTRY_2026-11-20.md)** |
+| **Proton-related public-source research** | Offline source-pinned analysis and synthetic permission-state regression methodology; **no confirmed vulnerability or bounty** | **[Research method · Scope and results](CASE_PROTON_RESEARCH_2026-11-20.md)** |
 
-## Engagement
+## Technical stack and working style
 
-Interested in **fractional QA automation, Python testing, technical evaluation and tightly scoped engineering assignments**. Preferred arrangement: remote B2B from Belgium, approximately **two days / 16 hours per week**, with Central European Time overlap.
+![Go](https://img.shields.io/badge/Go-exposure-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-exposure-000000?logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-exposure-3178C6?logo=typescript&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-structured%20data-374151?logo=json&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-testing-0078D4?logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CI-FCC624?logo=linux&logoColor=black)
 
-**Recruiter documents:** [Technical CV](CV.md) · [Concise CV](CV_POLISHED.md) · [Playwright QA case study](PLAYWRIGHT_QA_CASE_2026-11-20.md). Both CVs are aligned to the **20 November 2026** engineering evidence and availability.
+**Daily engineering emphasis:** Python · pytest/unittest · regression and negative-path tests · Git/GitHub Actions · evidence manifests · API/HTTP checks · reproducible reports · human-reviewed AI workflows. Go, Rust and TypeScript are **selected project exposure**, not a claim of equal production proficiency across every language.
 
-For product/IP collaborations and other projects see [selected project records](PROJECTS.md), [case studies](CASE_STUDIES.md) and the [historical evidence register](CURRENT_RESULTS_2026-10-16.md). Those records are dated; do not treat them as current all-system test runs.
+**Engagement:** open to fractional QA automation, Python testing, AI-output evaluation and scoped engineering contracts. Approximately **16 remote hours/week**, Belgium/CET, B2B where eligible.
 
-**Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com) · [Razorglint Labs](https://github.com/RazorglintLabs)
+[Selected projects](PROJECTS.md) · [Engineering case studies](CASE_STUDIES.md) · [Dated historical receipts](CURRENT_RESULTS_2026-10-16.md) · [Systems Architecture](https://github.com/RazorglintLabs/systems-architecture)
 
-*Public portfolio, not an open-source license grant. Private code and customer information are not shared without authorization. © 2026 Razorglint Labs / TCOG Collective LLC.*
+**Contact:** [razorglint.ops@protonmail.com](mailto:razorglint.ops@protonmail.com)
+
+<sub>Updated 20 November 2026. Independent project experience, not a claim of four years of employed QA automation or long-standing commercial Playwright use. Historical results remain dated; private code and third-party research stay under their rights and disclosure boundaries. © 2026 Razorglint Labs / TCOG Collective LLC.</sub>
